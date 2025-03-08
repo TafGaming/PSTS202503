@@ -27,7 +27,7 @@
 
         <div class="mb-4">
             <label class="block text-gray-700 font-bold mb-2">Phone</label>
-            <input type="text" name="phone" class="w-full p-2 border border-gray-300 rounded" required>
+            <input type="number" name="phone" class="w-full p-2 border border-gray-300 rounded" required>
         </div>
 
         <div class="mb-4">
